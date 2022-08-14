@@ -47,7 +47,7 @@
 # About The Project
 
 ## Introduction
-
+As part of my final project at HyperionDev
 The purpose of this document is to build an online system that will allow users to create flash cards 
 
 ## Intended audience:
